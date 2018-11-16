@@ -1,0 +1,4 @@
+baseURL = "http://jadenisco.github.io/hugo-quickstart"
+languageCode = "en-us"
+title = "John's New Hugo Site"
+theme = "ananke"
